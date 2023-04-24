@@ -18,13 +18,13 @@ have to register the students for particular programs which they ask to join. <p
 <br>
 
 <h3><b>Objectives</b><br></h3>
-o Can be saved, updated, deleted a student. 
-o Load all the students with the pagination option
-o Can be searched a student by Student Id.
-o Can be saved, updated, deleted a Program. 
-o Load all the programs with the pagination option.
-o Can be searched a program with the Program Id.
-o Register a student with a Particular program.
+o Can be saved, updated, deleted a student. <br>
+o Load all the students with the pagination option<br>
+o Can be searched a student by Student Id.<br>
+o Can be saved, updated, deleted a Program. <br>
+o Load all the programs with the pagination option.<br>
+o Can be searched a program with the Program Id.<br>
+o Register a student with a Particular program.<br>
 <br>
 
 <h3>API URLs <br></h3>
