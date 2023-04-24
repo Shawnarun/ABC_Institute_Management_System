@@ -4,9 +4,9 @@
 Back End Language :  Java <br>
 Frame Work        : Spring Boot<br>
 Developer         : S.S.Arunjith<br>
-API testiong tool : Postman
-Database          : MySQl
-Port              : 8080
+API testiong tool : Postman<br>
+Database          : MySQL<br>
+Port              : 8080<br>
 
 <br><br>
 
